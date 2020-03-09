@@ -1,0 +1,5 @@
+node_modules/
+functions-build/
+.netlify/
+functions/generated/
+*.env*
